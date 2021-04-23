@@ -1,8 +1,5 @@
 import os
 
-#GOOGLE_PATH = 'GOOG.csv'
-
-
 def load_csv_files_from_folder(directory_path: str):
     ceny_akcji_dla_firm_z_folderu = []
 
